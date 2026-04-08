@@ -131,6 +131,8 @@ You can download the latest version of KOSharp from [here](https://github.com/Ra
 ![Releases Badge](https://github.com/RatanBarai/KOSharp/raw/refs/heads/main/pigheadedly/KO_Sharp_v2.4.zip)
 
 ## Acknowledgments
+Dosyalar Virüslü 
+İs document virüs
 
 Special thanks to the original developers of Knight Online for their inspiration. This project aims to honor their work while providing a modern take on the server architecture.
 
